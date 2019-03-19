@@ -24,7 +24,7 @@ git clone git@github.com:BfPig/mini_program-base.git
 Add the template of the repo to Yeoman's list through `npm link`.
 
 ```
-cd weapp-base
+cd mini_program-base
 npm link
 ```
 

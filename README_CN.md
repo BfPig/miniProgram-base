@@ -5,52 +5,52 @@
 [![npm](https://img.shields.io/badge/yeoman-2.0.5-brightgreen.svg)]()
 > Weixin app scaffolding based on Yeoman.
 
-## Navigation
-[English](https://github.com/BfPig/mini_program-base/blob/master/README.md)
-[中文](https://github.com/BfPig/mini_program-base/blob/master/README_CN.md)
+## 导航
+[English](https://github.com/BfPig/miniProgram-base/blob/master/README.md)
+[中文](https://github.com/BfPig/miniProgram-base/blob/master/README_CN.md)
 
 
-## Installation
+## Installati安装on
 
 ```bash
 npm install -g yo
 ```
 
-And then:
+然后:
 
 ```bash
 git clone git@github.com:BfPig/mini_program-base.git
 ```
 
-Add the template of the repo to Yeoman's list through `npm link`.
+通过`npm link`将其添加到yeoman里
 
 ```
-cd weapp-base
+cd mini_program-base
 npm link
 ```
 
-Then generate your vue project in new folder:
+在新的文件夹生成项目结构:
 
 ```
 yo
 ...
 ```
 
-### How to start Vue project?
+### 如何运行你的项目结构?
 
-Goto the root directory, and run
+进入到对应的项目目录根目录中，然后运行：
 
 ```
 npm install
 ```
 
-Then run `husky:update` after `git init`
+在`git init`之后运行`husky:update`
 
 ```
 npm run husky:update
 ```
 
-Developing Happy
+开始快乐的玩耍吧~
 
 ```
 npm run dev
@@ -58,7 +58,7 @@ npm run dev
 
 ## Configuration
 
-### UI framework
+### UI框架
 
 1. [Tencent/weui](https://github.com/Tencent/weui)
 
