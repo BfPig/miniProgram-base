@@ -1,0 +1,27 @@
+{
+  "name": "generator-weapp-base",
+  "version": "1.0.0",
+  "description": "Weixin app scaffolding based on Yeoman.",
+  "homepage": "https://github.com/topproio/weapp-base",
+  "author": {
+    "name": "tina0035",
+    "email": "liuyan@weilaigongzuo.com",
+    "url": "https://github.com/topproio/vue-base"
+  },
+  "files": [
+    "generators"
+  ],
+  "main": "generators/index.js",
+  "devDependencies": {
+    "chalk": "^2.1.0",
+    "copy-dir": "^0.4.0",
+    "eslint-config-toppro": "^1.0.3",
+    "eslint": "^5.4.0",
+    "path": "^0.12.7",
+    "yeoman-generator": "^2.0.5",
+    "yosay": "^2.0.1"
+  },
+  "repository": "git@github.com:topproio/weapp-base.git",
+  "private": true,
+  "license": "MIT"
+}
