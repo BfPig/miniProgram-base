@@ -6,8 +6,8 @@
 > Weixin app scaffolding based on Yeoman.
 
 ## Navigation
-[English](https://github.com/BfPig/mini_program-base/blob/master/README.md)
-[中文](https://github.com/BfPig/mini_program-base/blob/master/README_CN.md)
+[English](https://github.com/BfPig/miniProgram-base/blob/master/README.md)
+[中文](https://github.com/BfPig/miniProgram-base/blob/master/README_CN.md)
 
 ## Installation
 
